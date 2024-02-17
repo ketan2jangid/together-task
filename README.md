@@ -10,5 +10,9 @@ Move to the project directory
 
 Run 'flutter pub get' command to get all the dependencies.
 
-Run the 'flutter run' command with desired emultor
+Run the 'flutter run' command to run
 
+PACKAGES USED :
+
+http - for making http call to API
+connectivity_plus - check internet connection status
